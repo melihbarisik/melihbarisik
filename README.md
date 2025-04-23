@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melihbarisik
-- 🌱 I’m currently learning HTML, CSS, JS, Angular and Angular Material
+- 🌱 I’m currently learning HTML, CSS, JS, Angular, Angular Material and Java
 - 📫 How to reach me barisik.melih@gmail.com
 - Linkedin: https://www.linkedin.com/in/melihbrsk/
 
